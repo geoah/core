@@ -1,0 +1,14 @@
+node_modules/
+.git/
+coverage/
+dist/
+
+.dockerignore
+Dockerfile
+
+.gitignore
+.env
+.eslintrc.json
+.jscsrc
+.editorconfig
+.travis.yml
